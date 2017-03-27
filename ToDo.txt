@@ -1,0 +1,15 @@
+Funktionalität ? Marvin
+
+- Vorraussetzungen zur Installation bzw. Nutzung
+
+- Architektur des verwendeten Projektarchivs
+
+- Schritte zum Aufsetzen eines Projektarchivs
+
+- Integration in Software-Produktionsumgebungen (verfu¨gbare Clients)
+
+- Vorgehen zum „checkin“ bzw. „checkout“
+- Verwaltungsfunktionen des Projektarchivs (branch, merge, fork, ...)
+
+- Externe Software zur Bedienung (Sourcetree) -> Vereinfachung
+
